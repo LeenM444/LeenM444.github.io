@@ -1,6 +1,13 @@
 # LeenM444.github.io
 
-Hi!  I am Aileen and welcome to my Github Profile Page!  This is a work in progress as I am a new student of Javascript, but I will be updating this README and my profile page as I learn.  
+**HELLO!**
 
-Support:  Email:  LeenM444Coding@gmail.com
+My name is Aileen and welcome to my Github profile page!  This is a work in progress and very simple at this point, but I will be updating this README and my profile page as I learn.  
 
+**SUPPORT REQUESTS?  EMAIL**  
+
+leenie.marquez@gmail.com
+
+**ROADMAP**
+
+In the future, I would like to update my profile page to appear more personal, interesting and colorful.  I will add a list of and links to my various projects to showcase the skills I have learned.  I will also personalize it with a short biography and my future goals.

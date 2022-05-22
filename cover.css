@@ -2,6 +2,12 @@
  * Globals
  */
 
+ /* Links */
+ a,
+ a:focus,
+ a:hover {
+   color:#FFF;
+ }
 
 /* Custom default button */
 .btn-secondary,
@@ -16,23 +22,44 @@
  * Base structure
  */
 
-body {
+ html,
+ body {
+   height: 100%;
+   background-color: #333;
+ }
+ 
+ body {
+   display: -ms-flexbox;
+   display: flex;
+   color: #fff;
+   text-shadow: none;
+   box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);
+   /*
+       ----------------------------------
+               UPDATE IMAGE BELOW
+       ----------------------------------
+   */
+ 
   
-  box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);
-
-}
-
-.cover-container {
-  max-width: 80em;
-}
-
+   background: url('08.jpg') no-repeat center center fixed;  
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   background-size: cover;
+   -o-background-size: cover;
+ 
+ }
+ 
+ .cover-container {
+   max-width: 70em;
+ }
+ 
 /*
  * Header
  */
 
 .nav-masthead .nav-link {
   padding: .25rem 0;
-  font-weight: 700;
+  font-weight: 800;
   color: rgb(255, 255, 255);
   background-color: transparent;
   border-bottom: .25rem solid transparent;
@@ -40,14 +67,14 @@ body {
 
 .nav-masthead .nav-link:hover,
 .nav-masthead .nav-link:focus {
-  border-bottom-color: rgba(255, 255, 255);
+  border-bottom-color: rgba(255, 242, 103  );
 }
 
 .nav-masthead .nav-link + .nav-link {
-  margin-left: 1rem;
+  margin-left: 2rem;
 }
 
 .nav-masthead .active {
-  color: #fff;
-  border-bottom-color: #fff;
+  color: #000;
+  border-bottom-color: #000;
 }

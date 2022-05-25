@@ -6,8 +6,8 @@ My name is Aileen and welcome to my Github profile page!  This is a work in prog
 
 **SUPPORT REQUESTS?  EMAIL**  
 
-leenie.marquez@gmail.com
+IAmLeenM444@gmail.com
 
 **ROADMAP**
 
-In the future, I would like to update my profile page to be more personal, interesting and colorful.  I will add a list of and links to my various projects to showcase the skills I have learned.  I will also personalize it with a short biography and my future goals.
+In the future, I would like to update my profile page to be more personal, interesting and colorful. 
